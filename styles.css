@@ -1,0 +1,28 @@
+body{
+  margin-top: 100px;
+}
+
+
+#buttons{
+  margin : 5px;
+}
+
+.buttonRow{
+  margin-top : 10px;
+  margin-bottom : 10px;  
+}
+
+button{
+  min-height : 75px;
+}
+
+#titleRow{
+  margin:3px;
+  
+}
+
+#descriptionRow{
+  padding : 5px;
+  margin : 5px;
+  min-height:50%;
+}
